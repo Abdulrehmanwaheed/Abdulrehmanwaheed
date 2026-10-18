@@ -27,7 +27,7 @@ My work includes third-party integrations with **Stripe, Klaviyo, and Zendesk**,
 A selection of my projects and public case studies:
 
 - [**Awan Collection — E-Commerce Client Project**](https://github.com/Abdulrehmanwaheed/awancollection-showcase) — Next.js and TypeScript storefront, cart, checkout, and admin workflows. [Live website](https://awancollection.pk). The client source code is private.
-- [**axisone**](https://github.com/Abdulrehmanwaheed/axisone) — Web project; explore the source and implementation.
+- [**AxisOne Consultancy — Corporate Website**](https://github.com/Abdulrehmanwaheed/axisone-work) — Next.js and TypeScript consultancy website with responsive service pages and contact journeys. [Live website](https://axisoneconsultancy.com/). Production source code is private.
 - [**or-simulator**](https://github.com/Abdulrehmanwaheed/or-simulator) — Simulation project.
 - [**Operational-Research-project**](https://github.com/Abdulrehmanwaheed/Operational-Research-project) — Academic / technical project.
 
